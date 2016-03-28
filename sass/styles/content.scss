@@ -1,0 +1,17 @@
+.content{
+	padding: 8px;
+
+	color: $color-main;
+	background-color: $color-white;
+
+	.header{
+		font-family: $font-title;
+		font-size: 24pt;
+	}
+
+	.content-body{
+		font-family: $font-body;
+		font-size: 14pt;
+		line-height: 2;
+	}
+}
